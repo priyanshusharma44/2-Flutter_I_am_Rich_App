@@ -2,7 +2,7 @@
 
 ## App Screenshot:
 
-![App Screenshot]([https://github.com/priyanshusharma44/3-Flutter_Im_Poor_App/blob/main/Screenshot%202023-12-16%20141631.png](https://github.com/priyanshusharma44/2-Flutter_I_am_Rich_App/blob/main/Screenshot%202023-12-16%20142229.png)
+![App Screenshot]([https://github.com/priyanshusharma44/3-Flutter_Im_Poor_App/blob/main/Screenshot%202023-12-16%20141631.png](https://github.com/priyanshusharma44/2-Flutter_I_am_Rich_App/blob/main/Screenshot%202023-12-16%20142229.png))
 
 ## Overview:
 The "I'm Rich" app is a simple Flutter project that humorously showcases a minimalistic mobile application. The project's purpose is to create a lighthearted and straightforward app using Flutter.
