@@ -1,16 +1,39 @@
-# basic_flutter1
+# I'm Rich App
 
-A new Flutter project.
+## App Screenshot:
+
+![App Screenshot](https://github.com/priyanshusharma44/3-Flutter_Im_Poor_App/blob/main/Screenshot%202023-12-16%20141631.png)
+
+## Overview:
+The "I'm Rich" app is a simple Flutter project that humorously showcases a minimalistic mobile application. The project's purpose is to create a lighthearted and straightforward app using Flutter.
+
+## Features:
+### Scaffold Structure
+The app employs the scaffold structure with an app bar, body, and background color.
+
+### App Bar:
+The app bar includes a centered title, enhancing the overall visual appeal. The title text is styled with a bold font and a custom color.
+
+### Body Content:
+The body of the app contains a centered image widget, creating a visually straightforward user interface.
 
 ## Getting Started
+Ensure you have Flutter installed. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-This project is a starting point for a Flutter application.
+### Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone <repository URL>
+cd <project directory>
+Run the app:
+bash
+Copy code
+flutter run
+Usage
+Feel free to use this code as a foundation for your Flutter projects or as a learning resource to understand basic Flutter concepts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributions
+Contributions are welcome! If you find any issues or have improvements, please open an issue or submit a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
